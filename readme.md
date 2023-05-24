@@ -14,7 +14,7 @@
 
 #### Second Step
 1. In your forked repo: **Go to Settings > Secrets > Action > New Repository Secret**
-2. In the name section, enter this text: **NGROK_AUTH_TOKEN**
+2. In the name section, enter this text: **Token**
 3. In the value section, enter the **ngrok token**
 4. Then press **Add Secret**
 5. Now go to **Action > RDP (Left Menu) > Run Workflow**
