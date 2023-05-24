@@ -18,9 +18,9 @@ jobs:
       run: Expand-Archive ngrok.zip
 
     - name: Connecting ngrok Account
-      run: .\ngrok\ngrok.exe authtoken $Env:Token
+      run: .\ngrok\ngrok.exe authtoken $Env:TOKEN
       env:
-        Token: ${{ secrets.Token }}
+        TOKEN: ${{ secrets.TOKEN }}
 
     - name: Enable RDP Access
       run: |
