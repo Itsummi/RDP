@@ -8,7 +8,7 @@
 ## How to use it?
 
 #### First Step
-1. Press the **fork** button  
+1. Press the **Fork** button  
 2. Login or signup to ngrok: https://ngrok.com
 3. Now visit here for token: https://dashboard.ngrok.com/auth/your-authtoken
 
