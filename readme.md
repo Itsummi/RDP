@@ -22,6 +22,6 @@
 7. You'll get IP, Username & Password from **Connect to RDP** section
 
 #### Third Step
-1. Search **Remote Desktop Connection** from Windows Start Menu and open
-2. Put IP without **tcp://** and enter Username & click **Connect**
-3. Later on, put the Password for credential/auth
+1. Search **Remote Desktop Connection** and open
+2. Put IP without **tcp://** and click **Connect**
+3. Enter Username and Password
