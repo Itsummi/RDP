@@ -13,10 +13,10 @@
 3. Now visit here for token: https://dashboard.ngrok.com/auth/your-authtoken
 
 #### Second Step
-1. In your forked repo: **Go to Settings > Secrets and variables > Actions > New Repository Secret**
+1. In your forked repo: **Go to Settings > Secrets and variables > Actions > New repository secret**
 2. In the name section, enter this text: **TOKEN**
 3. In the value section, enter the **ngrok token**
-4. Then press **Add Secret**
+4. Then press **Add secret**
 5. Now go to **Actions > RDP (Left Menu) > Run Workflow**
 6. Refresh the page and go to **RDP > build** option
 7. You'll get IP, Username & Password from **Connect to RDP** section
