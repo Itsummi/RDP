@@ -1,6 +1,6 @@
 ## Description
 **What is RDP?**<br>
-* RDP (Remote Desktop Protocol) is a network communications protocol developed by Microsoft, which allows users to connect to another computer from a remote location
+* RDP (Remote Desktop Protocol) is a network communication protocol developed by Microsoft, which allows users to connect to another computer from a remote location
 
 **How long does this RDP stay active?**<br>
 * This RDP stays active for up to 2 hours<br>
