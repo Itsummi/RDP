@@ -17,11 +17,11 @@
 2. In the name section, enter this text: **TOKEN**
 3. In the value section, enter the **ngrok token**
 4. Then press **Add secret**
-5. Now go to **Actions > RDP (Left Menu) > Run Workflow**
+5. Now go to **Actions > RDP > Run workflow**
 6. Refresh the page and go to **RDP > build** option
 7. You'll get IP, Username & Password from **Connect to RDP** section
 
 #### Third Step
 1. Search **Remote Desktop Connection** from Windows Start Menu and open
 2. Put IP without **tcp://** and enter Username & click **Connect**
-3. Later on, put the password for credential/auth
+3. Later on, put the Password for credential/auth
